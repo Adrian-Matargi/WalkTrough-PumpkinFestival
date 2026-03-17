@@ -1,4 +1,4 @@
-## PumpkinFestival - Walkthrough (VulnHub)
+## PumpkinFestival - Walkthrough
 
 ## Informações Gerais
 
